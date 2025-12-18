@@ -1,5 +1,8 @@
 # The Service need to direct access
 
+#api
+DOMAIN-SUFFIX,cauenvao.click
+
 # appstorrent.ru
 DOMAIN-SUFFIX,appstorrent.ru
 
