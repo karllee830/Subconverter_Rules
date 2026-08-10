@@ -1,5 +1,12 @@
 # The Service need to direct access
 
+# DeepSeek
+DOMAIN-SUFFIX,deepseek.com
+
+# SelfHosted
+DOMAIN-SUFFIX,glroy.ddns.net
+
+
 #api
 DOMAIN-SUFFIX,cauenvao.click
 
