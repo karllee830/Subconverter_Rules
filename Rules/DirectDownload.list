@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,deepseek.com
 
 # SelfHosted
 DOMAIN-SUFFIX,glroy.ddns.net
+DOMAIN,code.0http.com
 
 
 #api
