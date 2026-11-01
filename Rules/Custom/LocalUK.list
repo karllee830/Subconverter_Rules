@@ -1,9 +1,41 @@
+# Monzo Bank
 DOMAIN-SUFFIX,monzo.com
 DOMAIN-SUFFIX,monzo-alt.net
 DOMAIN-SUFFIX,monzo.statuspage.io
 DOMAIN-SUFFIX,monzo.me
+DOMAIN-SUFFIX,monzo-prod.com
+DOMAIN-SUFFIX,monzo-s101.com
+DOMAIN-SUFFIX,monzo-s102.com
+DOMAIN-SUFFIX,prod-ffs.io
 DOMAIN-SUFFIX,nonprod-ffs.io
-DOMAIN,sdk.fra-01.braze.eu
 DOMAIN,o23827.ingest.sentry.io
 DOMAIN-SUFFIX,getmondo.co.uk
+
+# Lloyds Bank
+DOMAIN-SUFFIX,lloydsbank.co.uk
+DOMAIN-SUFFIX,lloydsbank.com
+DOMAIN-SUFFIX,lloydsbanking.com
+DOMAIN-SUFFIX,lloydsbanking.co.uk
+DOMAIN-SUFFIX,lloydsbankinggroup.com
+DOMAIN-SUFFIX,lloydsbankinggroup.co.uk
+DOMAIN-SUFFIX,lloydstsb.co.uk
+DOMAIN-SUFFIX,lloydstsb.com
+DOMAIN-SUFFIX,lloydstsb.net
+DOMAIN-SUFFIX,lloydsbankdirectinvestmentsonline.co.uk
+DOMAIN-SUFFIX,clublloyds.com
+DOMAIN-SUFFIX,lloydsbankpremier.com
+
+# Lloyds Fraud / risk SDKs
+DOMAIN-SUFFIX,online-metrix.net
+DOMAIN,wup-16c9d93d.eu.v2.we-stats.com
+DOMAIN,bcdn-16c9d93d.we-stats.com
+
+DOMAIN,lloydsbankinggroup.d3.sc.omtrdc.net
+DOMAIN,bf10006sbr.bf.dynatrace.com
+
+IP-CIDR,141.92.0.0/16,no-resolve
+IP-CIDR,159.34.0.0/16,no-resolve
+IP-CIDR,193.34.230.0/23,no-resolve
+
+# EE WiFiCalling
 DOMAIN,epdg.epc.mnc033.mcc234.pub.3gppnetwork.org
