@@ -38,5 +38,34 @@ IP-CIDR,141.92.0.0/16,no-resolve
 IP-CIDR,159.34.0.0/16,no-resolve
 IP-CIDR,193.34.230.0/23,no-resolve
 
+# Trading212
+DOMAIN-SUFFIX,trading212.com
+DOMAIN-SUFFIX,trading212.co.uk
+DOMAIN-SUFFIX,trading212.de
+DOMAIN,trading212equities.s3.eu-central-1.amazonaws.com
+DOMAIN,trading212-assets.s3.eu-central-1.amazonaws.com
+DOMAIN,d2iuv7nw9pip8z.cloudfront.net
+DOMAIN,d14vqntc8kjril.cloudfront.net
+DOMAIN,d1o59w04t0rrym.cloudfront.net
+DOMAIN,stats.azmsoft.com
+DOMAIN,yrkm8m.launches.appsflyersdk.com
+DOMAIN,yrkm8m.inapps.appsflyersdk.com
+DOMAIN,yrkm8m.skadsdkless.appsflyersdk.com
+DOMAIN,yrkm8m-inapps.appsflyersdk.com
+DOMAIN,o1098464.ingest.sentry.io
+DOMAIN,o4507345375789056.ingest.de.sentry.io
+
+# TrueLayer
+DOMAIN-SUFFIX,truelayer.com
+
+# Zopa
+DOMAIN-SUFFIX,zopa.com
+DOMAIN-SUFFIX,zopa.co.uk
+DOMAIN,mcy3by64m9q8cbw9sx8d81xstm6m.device.marketingcloudapis.com
+DOMAIN,o205295.ingest.sentry.io
+
+# Zopa fraud / risk
+DOMAIN,h-zopa.online-metrix.net
+
 # EE WiFiCalling
 DOMAIN,epdg.epc.mnc033.mcc234.pub.3gppnetwork.org
